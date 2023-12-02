@@ -1,1 +1,3 @@
-# information_retrival
+## information_retrieval
+
+### nlp notes
