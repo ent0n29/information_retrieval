@@ -1,0 +1,5 @@
+Date       ,Country ,Total Cases ,Total Deaths ,Total Recovered ,Population ,Vaccination Rate ,GDP per Capita ,Healthcare Spending ,"Hospital Beds per 1,000 People" ,"ICU Beds per 1,000 People" ,HDI
+2022-01-01 ,USA     ,    5000000 ,      100000 ,        3000000 , 331000000 ,            40.5 ,         62000 ,              10000 ,                             3.5 ,                        2.5 ,0.2  ,0.92
+2022-01-01 ,China   ,    1200000 ,       50000 ,        1100000 ,1444216107 ,            60.0 ,         16000 ,               5000 ,                             4.5 ,                        2.0 ,0.1  ,0.75
+2022-01-01 ,India   ,    7000000 ,      200000 ,        6500000 ,1380004385 ,            35.2 ,          7200 ,               1000 ,                             2.8 ,                        1.2 ,0.05 ,0.64
+2022-01-01 ,Brazil  ,    3500000 ,      120000 ,        3200000 , 212559417 ,            25.6 ,         10000 ,               2500 ,                             2.9 ,                        2.0 ,0.15 ,0.76
